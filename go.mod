@@ -1,4 +1,4 @@
-module github.com/ankorstore/yokai-http-template
+module github.com/tomchkk/go-learn-http
 
 go 1.22
 
